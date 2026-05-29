@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+screenshots/
+alert_log.txt
+
+dataset/
